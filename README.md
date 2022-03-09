@@ -10,4 +10,4 @@
 - Gathering data<br>
 - Saving data<br>
 - Updating data<br>
-- Linking functionalities from frontend and backend<br>
+- Linking functionalities from front-end and back-end<br>
